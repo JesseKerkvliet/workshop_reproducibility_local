@@ -1,3 +1,5 @@
+*.bck 
+
 *.py[cod]
 *.egg-info
 *.eggs
@@ -23,3 +25,4 @@ docs/apidocs
 
 # Mac
 .DS_Store
+
