@@ -10,7 +10,7 @@ cryptography==2.7
 fish==1.1
 future==0.18.2
 idna==2.8
-Jinja2==2.10.3
+Jinja2==2.11.3
 jinja2-time==0.2.0
 MarkupSafe==1.1.1
 poyo==0.5.0
